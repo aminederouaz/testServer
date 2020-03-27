@@ -1,12 +1,27 @@
-﻿[
-  {
-    "message": "Pour vous nos chers fans, les gagnants seront tirés au sort, bonne chance 😍",
-    "id": "1278754905629724_1279707305534484",
-    "post_id": "280391715466053_1278754905629724",
-    "page_id": "280391715466053",
-    "Predicted_Polarity": "Pos",
-    "Manual_Polarity": "Neg",
-    "Predicted_Field": "",
-    "Manual_Field": "support"
+{
+
+  "posts": [
+
+    { "id": 1, "title": "Post 1" },
+
+    { "id": 2, "title": "Post 2" },
+
+    { "id": 3, "title": "Post 3" }
+
+  ],
+
+  "comments": [
+
+    { "id": 1, "body": "some comment", "postId": 1 },
+
+    { "id": 2, "body": "some comment", "postId": 1 }
+
+  ],
+
+  "profile": {
+
+    "name": "typicode"
+
   }
-]
+
+}
